@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+table{
+    text-align: center;
+}
+td{
+    text-align: right;
+    height: 89px;
+}
